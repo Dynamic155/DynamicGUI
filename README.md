@@ -1,2 +1,0 @@
-# DynamicGUI
-e/z
